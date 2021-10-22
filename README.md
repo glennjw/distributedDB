@@ -5,7 +5,6 @@
 
 ## How-to-run:<br />
 
-First download folder src.<br />
 1. Bootstrap Name Server side:<br />
 1). $ cd BootstrapNameServer<br />
 2). $ bash run.sh<br />
