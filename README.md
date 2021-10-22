@@ -3,15 +3,15 @@
 ![Consistent Hashing](https://github.com/glennjw/distributedDB/blob/main/ch.jpeg?raw=true)
 
 
-How-to-run:
-First download folder src.
-1. Bootstrap Name Server side:
-1). $ cd BootstrapNameServer
-2). $ bash run.sh
-2. Name Server side:
-1). $ cd NameServer
-2). Change server ID and port in nsconfig_example.txt.
-3). $ bash run.sh
+How-to-run:<br />
+First download folder src.<br />
+1. Bootstrap Name Server side:<br />
+1). $ cd BootstrapNameServer<br />
+2). $ bash run.sh<br />
+2. Name Server side:<br />
+1). $ cd NameServer<br />
+2). Change server ID and port in nsconfig_example.txt.<br />
+3). $ bash run.sh<br />
 
 
 
