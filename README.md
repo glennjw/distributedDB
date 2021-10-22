@@ -1,6 +1,6 @@
 # distributedDB
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Consistent Hashing](https://github.com/glennjw/distributedDB/blob/main/ch.jpeg?raw=true)
 
 
 How-to-run:
