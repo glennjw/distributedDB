@@ -13,5 +13,8 @@ First download folder src.<br />
 2). Change server ID and port in nsconfig_example.txt.<br />
 3). $ bash run.sh<br />
 
+3. Run command:<br />
+It can successfully complete lookup key, insert key value, delete key in BNS side, and complete
+enter, exit in NS side. And you can use command “info” to see detailed information of the server.<br />
 
 
