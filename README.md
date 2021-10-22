@@ -1,5 +1,8 @@
 # distributedDB
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 How-to-run:
 First download folder src.
 1. Bootstrap Name Server side:
