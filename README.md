@@ -3,7 +3,8 @@
 ![Consistent Hashing](https://github.com/glennjw/distributedDB/blob/main/ch.jpeg?raw=true)
 
 
-How-to-run:<br />
+#How-to-run:<br />
+
 First download folder src.<br />
 1. Bootstrap Name Server side:<br />
 1). $ cd BootstrapNameServer<br />
