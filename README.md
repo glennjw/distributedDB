@@ -1,4 +1,4 @@
-# Distributed Database with Consistent Hashing
+# Distributed Database
 
 ![Consistent Hashing](https://github.com/glennjw/distributedDB/blob/main/ch.jpeg?raw=true)
 
